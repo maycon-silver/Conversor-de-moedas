@@ -1,0 +1,124 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+
+}
+
+body {
+    background-image: url(/assest/Conversor-de-moeda-Capa.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+body #capa-fundo {
+    width: 100%;
+    height: 100vh;
+    opacity: 0.2;
+    position: absolute;
+}
+
+main {
+    width: 375px;
+    background-color: white;
+    border-radius: 30px;
+    margin: 0 auto;
+    margin-top: 50px;
+    padding: 44px 24px 23px 24px;
+}
+
+label {
+    color: #777777;
+    font-weight: 400;
+    font-size: 16px;
+
+
+}
+
+select {
+    border-radius: 4px;
+    background: #ffff;
+    border: 1px solid;
+    width: 100%;
+    height: 44px;
+    margin-bottom: 24px;
+    appearance: none;
+    padding-left: 18px;
+    font-weight: 700;
+    font-size: 14px;
+
+}
+
+input {
+
+    width: 100%;
+    height: 44px;
+    padding-left: 14px;
+    border: 1px solid;
+    border-radius: 4px;
+
+
+}
+
+button {
+    width: 100%;
+    height: 48px;
+    border-radius: 5px;
+    margin-top: 26px;
+    background-color:orangered;
+    font-size: 18px;
+    color: white;
+    line-height: 18px;
+    border: none;
+
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+button:active {
+    opacity: 0.6;
+}
+
+section {
+    border: 1px solid;
+    border-radius: 20px;
+    margin-top: 26px;
+    padding: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   color: orangered;
+}
+
+
+.logo-seta {
+    padding: 15px 0;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+}
+
+.logo-moedas {
+    width: 44px;
+}
+
+.moeda {
+    font-weight: 400;
+    font-size: 18px;
+    color: black;
+}
+
+.Valor-Real, .Valor-usa {
+    color: #383838;
+    font-weight: 700px;
+    font-size: 20px;
+    color: green;
+}
