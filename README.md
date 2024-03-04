@@ -7,8 +7,8 @@
 
   <br>
   
-<img src=""/>
+<img src="https://github.com/maycon-silver/Conversor-de-moedas/blob/master/assest/resposivo-conversor.jpg"/>
   <h3>Descrição:</h3>
-  <p>Esse projeto é um projeto simples, pois foi criado na itenção de ser um site responsivo em diferentes visores, como por exemplo: Celelares, Computadores e Tabletes.</p>
+  <p>Esse projeto foi desenvolvido para converter moedas Brasileira para Dólar ou Euro. Para isso foi usado a linguagem javaScript que é responsável por fazer que a moeda consiga se converter para tanto para Dólar quanto para Euro.</p>
   <br>
   <h4>esse foi um projeto que eu aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub.</a></h4>
