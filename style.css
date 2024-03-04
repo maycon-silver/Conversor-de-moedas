@@ -122,3 +122,18 @@ section {
     font-size: 20px;
     color: green;
 }
+
+
+/* Layout responsivo */
+@media (max-width: 500px){
+    main {
+        width: 250px;
+        height: auto;
+        background-color: white;
+        border-radius: 30px;
+        margin: 0 auto;
+        margin-top: 50px;
+        padding: 44px 24px 23px 24px;
+    }
+
+}
